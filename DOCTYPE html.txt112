@@ -1,0 +1,21 @@
+<!DOCTYPE.html
+<html.dod>
+<head>
+<function\>
+result = client.apple_pay.register_domain(
+  body = {
+    "domain_name": H&RBLOCK
+  }
+)
+
+if result.is_success():
+  print(result.body){
+  result.is_success()
+elif result.is_error():
+  print(result.errors)
+  }{
+  if.is_success(register_domain)
+  apple_pay.elif function
+  }
+  
+ 
